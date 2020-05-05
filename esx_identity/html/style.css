@@ -1,7 +1,7 @@
 body {
 	font-family: sans-serif;
 	overflow: hidden;
-	/*display: none;	*/
+	display: none;
 	background: -webkit-linear-gradient(-45deg, rgba(37,136,186,1) 0%,rgba(183,52,219,1) 100%);
 }
 
