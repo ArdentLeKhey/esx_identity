@@ -3,10 +3,8 @@
 
 This is my reskin of esx_identity, you can find original file here : [original esx_identity](https://github.com/ESX-Org/esx_identity) 
 
-Here a presentation video :
+Here a video presentation :
 [![Video](https://github.com/ArdentLeKey/esx_identity/blob/master/esx_identity.PNG)](https://www.youtube.com/watch?v=jtcZ4IQOF0Q)
-
-![esx_identity](https://github.com/ArdentLeKey/esx_identity/blob/master/esx_identity.PNG "esx_identity")
 
 ## Requirements
 * Dependencies For Full Functionality
