@@ -1,0 +1,27 @@
+<html>
+	<head>
+		<link href="style.css" rel="stylesheet" type="text/css" />
+	</head>
+
+	<body>
+		<div class="dialog">
+			<form id="register">
+				<h1>Carte d'Identité</h1>
+				<br>
+				<input id="firstname" type="text" placeholder="Prénom"><br>
+				<br>
+				<input id="lastname" type="text" placeholder="Nom"><br>
+				<br>
+				<input id="dateofbirth" type="text" placeholder="Date de Naissance [JJ-MM-AA]"><br>
+				<br>
+				<input id="height" type="text" placeholder="Taille [140-200 cm]"><br><center>
+				<br>
+				<label class="container">Homme<input type="radio" name="sex" value="m" checked><span class="checkmark"></span></label>
+				<label class="container">Femme<input type="radio" name="sex" value="f" ><span class="checkmark"></span></label><br></center>
+				<!-- <input type="radio" name="sex" value="f">Femme<br> -->
+				<br>
+				<button id="submit" type="submit">Enregister</button>
+			</form>
+		</div>
+	</body>
+</html>
