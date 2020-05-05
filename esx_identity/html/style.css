@@ -5,6 +5,13 @@ body {
 	background: -webkit-linear-gradient(-45deg, rgba(37,136,186,1) 0%,rgba(183,52,219,1) 100%);
 }
 
+#tag {
+	position: absolute;
+	bottom: 15px;
+	left: 15px;
+	color: aliceblue;
+}
+
 .dialog {	
     /* background:url('https://image.noelshack.com/fichiers/2018/36/1/1535968148-sans-titre-6.png'); */
     background-color: whitesmoke;
